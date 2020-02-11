@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72214379-bece-48df-b818-043a57eab2fa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="210" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TestNG Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XcwwwTdmzNiTXtD2NZ9UdNuxhM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="TestNG" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.TestNG" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="example" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/Java_automation/Lesson_6/Task6/src/test/java/example/suite.xml">
+    <configuration name="D:/Java_automation/Lesson_6/Task6/src/test/java/example/suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task6" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/java/example/suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperation2Test.testWordLengthDivision2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.StringOperation2Test" />
+      <option name="METHOD_NAME" value="testWordLengthDivision2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationTest.testEvenNumberOfLetters" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.StringOperationTest" />
+      <option name="METHOD_NAME" value="testEvenNumberOfLetters" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationTest.testToUpperCase" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.StringOperationTest" />
+      <option name="METHOD_NAME" value="testToUpperCase" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringOperationTest.testToUpperCase2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Task6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="MAIN_CLASS_NAME" value="example.StringOperationTest" />
+      <option name="METHOD_NAME" value="testToUpperCase2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/Java_automation/Lesson_6/Task6/src/test/java/example/suite.xml" />
+        <item itemvalue="TestNG.StringOperationTest.testToUpperCase2" />
+        <item itemvalue="TestNG.StringOperationTest.testToUpperCase" />
+        <item itemvalue="TestNG.StringOperation2Test.testWordLengthDivision2" />
+        <item itemvalue="TestNG.StringOperationTest.testEvenNumberOfLetters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72214379-bece-48df-b818-043a57eab2fa" name="Default Changelist" comment="" />
+      <created>1581358932976</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581358932976</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="148" key="FileChooserDialogImpl" timestamp="1581436194190">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="512" y="148" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1581436194190" />
+    <state width="1420" height="133" key="GridCell.Tab.0.bottom" timestamp="1581442197431">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="133" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1581442197431" />
+    <state width="1420" height="133" key="GridCell.Tab.0.center" timestamp="1581442197431">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="133" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1581442197431" />
+    <state width="1420" height="133" key="GridCell.Tab.0.left" timestamp="1581442197431">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="133" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1581442197431" />
+    <state width="1420" height="133" key="GridCell.Tab.0.right" timestamp="1581442197431">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="133" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1581442197431" />
+    <state x="503" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581360814380">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="503" y="111" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1463.783@0.0.1463.783" timestamp="1581360814380" />
+    <state x="159" y="95" key="new project wizard" timestamp="1581436212537">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="159" y="95" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1581436212537" />
+    <state x="394" y="104" width="672" height="678" key="search.everywhere.popup" timestamp="1581363554450">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="394" y="104" width="672" height="678" key="search.everywhere.popup/0.0.1463.783@0.0.1463.783" timestamp="1581363554450" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Task6$D__Java_automation_Lesson_6_Task6_src_test_java_example_suite_xml.ic" NAME="$PROJECT_DIR$/src/test/java/example/suite.xml Coverage Results" MODIFIED="1581441495585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
