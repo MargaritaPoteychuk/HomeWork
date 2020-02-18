@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8065392f-bf4e-4e3e-a9e2-bb7c71ec8dd1" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XwdzJw5fMa0bH41uoAYuX8ysn3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.ParisTask2">
+    <configuration name="Date" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Date" />
+      <module name="Task9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParisTask1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParisTask1" />
+      <module name="Task9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ParisTask2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ParisTask2" />
+      <module name="Task9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ParisTask2" />
+        <item itemvalue="Application.ParisTask1" />
+        <item itemvalue="Application.Date" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8065392f-bf4e-4e3e-a9e2-bb7c71ec8dd1" name="Default Changelist" comment="" />
+      <created>1581961351611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581961351611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="148" key="FileChooserDialogImpl" timestamp="1582041674391">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="512" y="148" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1582041674391" />
+    <state width="1420" height="69" key="GridCell.Tab.0.bottom" timestamp="1582061925517">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="69" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1582061925517" />
+    <state width="1420" height="69" key="GridCell.Tab.0.center" timestamp="1582061925517">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="69" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1582061925517" />
+    <state width="1420" height="69" key="GridCell.Tab.0.left" timestamp="1582061925517">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="69" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1582061925517" />
+    <state width="1420" height="69" key="GridCell.Tab.0.right" timestamp="1582061925517">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="69" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1582061925517" />
+    <state width="1420" height="179" key="GridCell.Tab.1.bottom" timestamp="1582056688546">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="179" key="GridCell.Tab.1.bottom/0.0.1463.783@0.0.1463.783" timestamp="1582056688546" />
+    <state width="1420" height="179" key="GridCell.Tab.1.center" timestamp="1582056688546">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="179" key="GridCell.Tab.1.center/0.0.1463.783@0.0.1463.783" timestamp="1582056688546" />
+    <state width="1420" height="179" key="GridCell.Tab.1.left" timestamp="1582056688545">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="179" key="GridCell.Tab.1.left/0.0.1463.783@0.0.1463.783" timestamp="1582056688545" />
+    <state width="1420" height="179" key="GridCell.Tab.1.right" timestamp="1582056688546">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1420" height="179" key="GridCell.Tab.1.right/0.0.1463.783@0.0.1463.783" timestamp="1582056688546" />
+    <state x="159" y="95" key="new project wizard" timestamp="1582041679770">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="159" y="95" key="new project wizard/0.0.1463.783@0.0.1463.783" timestamp="1582041679770" />
+  </component>
+</project>
