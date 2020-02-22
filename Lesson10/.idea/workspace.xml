@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ffb22b27-135f-4d2c-8c87-84270207723f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YAj43J1jjO800PkXqXIpYeIeLD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Lesson_10/Lesson10" />
+  </component>
+  <component name="RunManager" selected="JUnit.LetterTest">
+    <configuration name="DeleteFlagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10MF" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="DeleteFlagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlagTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10MF" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FlagTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GroupLetterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10MF" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GroupLetterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LetterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10MF" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="LetterTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpamTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw10MF" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SpamTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.LetterTest" />
+        <item itemvalue="JUnit.DeleteFlagTest" />
+        <item itemvalue="JUnit.FlagTest" />
+        <item itemvalue="JUnit.GroupLetterTest" />
+        <item itemvalue="JUnit.SpamTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ffb22b27-135f-4d2c-8c87-84270207723f" name="Default Changelist" comment="" />
+      <created>1582392097525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582392097525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="309" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1582394519069">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="309" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1463.783@0.0.1463.783" timestamp="1582394519069" />
+    <state x="512" y="149" key="FileChooserDialogImpl" timestamp="1582394038635">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state x="512" y="149" key="FileChooserDialogImpl/0.0.1463.783@0.0.1463.783" timestamp="1582394038635" />
+    <state width="1420" height="2" key="GridCell.Tab.0.bottom" timestamp="1582404184858">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1281" height="266" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1582393094423" />
+    <state width="1420" height="2" key="GridCell.Tab.0.bottom/0.0.1463.783@0.0.1463.783" timestamp="1582404184858" />
+    <state width="1420" height="2" key="GridCell.Tab.0.center" timestamp="1582404184858">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1281" height="266" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1582393094423" />
+    <state width="1420" height="2" key="GridCell.Tab.0.center/0.0.1463.783@0.0.1463.783" timestamp="1582404184858" />
+    <state width="1420" height="2" key="GridCell.Tab.0.left" timestamp="1582404184858">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1281" height="266" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1582393094423" />
+    <state width="1420" height="2" key="GridCell.Tab.0.left/0.0.1463.783@0.0.1463.783" timestamp="1582404184858" />
+    <state width="1420" height="2" key="GridCell.Tab.0.right" timestamp="1582404184858">
+      <screen x="0" y="0" width="1463" height="783" />
+    </state>
+    <state width="1281" height="266" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1582393094423" />
+    <state width="1420" height="2" key="GridCell.Tab.0.right/0.0.1463.783@0.0.1463.783" timestamp="1582404184858" />
+  </component>
+</project>
