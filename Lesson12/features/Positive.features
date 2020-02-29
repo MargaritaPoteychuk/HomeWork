@@ -1,0 +1,10 @@
+Feature: Positive
+Scenario: Test putting messages flag on on mail.ru
+    Given I am on a main application page
+    When I login as correct user
+    Then is flag on
+
+Scenario: Test putting messages flag off on mail.ru
+    Given Mane app page
+    When login
+    Then is flag off
